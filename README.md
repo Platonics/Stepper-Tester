@@ -16,6 +16,8 @@ Features
 Operation Manual
 ===
 
+![boardImage](layout.png)
+
 Inset power cord (under 50V, please also relate to the stepper motor driver voltage limits that you inserted in the tester beforehand). Green indicator will lights up, followed by yellow one. When yellow LED fully lights up, you have 2 seconds to choose your motor/system setup.
 
 + If UL button is pressed after yellow LED lights up, belt system setting will be applied, and yellow LED will flash twice.
