@@ -24,9 +24,9 @@ int speedE[] = {5,10,20,30}; // mm/s, 4 different speeds can be set and selected
 int speedXY[] = {20,40,80,300}; // mm/s
 int speedZ[] = {1,2,3,4}; // mm/s
 
-int stepsPerRev[] = {400,400,400}; //motor steps per revolution E, XY, Z
+int stepsPerRev[] = {200,200,200}; //motor steps per revolution E, XY, Z
 int mmPerRev[] = {5.16, 16*2.5, 8};
-byte uSteps[] = {32,32,32};  //uSteps E, XY, Z
+byte uSteps[] = {16,16,16};  //uSteps E, XY, Z
 
 // END of Config
 
